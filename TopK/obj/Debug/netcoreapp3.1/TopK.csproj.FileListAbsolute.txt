@@ -1,0 +1,13 @@
+D:\Code\C#\TopK\TopK\bin\Debug\netcoreapp3.1\TopK.exe
+D:\Code\C#\TopK\TopK\bin\Debug\netcoreapp3.1\TopK.deps.json
+D:\Code\C#\TopK\TopK\bin\Debug\netcoreapp3.1\TopK.runtimeconfig.json
+D:\Code\C#\TopK\TopK\bin\Debug\netcoreapp3.1\TopK.runtimeconfig.dev.json
+D:\Code\C#\TopK\TopK\bin\Debug\netcoreapp3.1\TopK.dll
+D:\Code\C#\TopK\TopK\bin\Debug\netcoreapp3.1\TopK.pdb
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.csprojAssemblyReference.cache
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.AssemblyInfoInputs.cache
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.AssemblyInfo.cs
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.csproj.CoreCompileInputs.cache
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.dll
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.pdb
+D:\Code\C#\TopK\TopK\obj\Debug\netcoreapp3.1\TopK.genruntimeconfig.cache
