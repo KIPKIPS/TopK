@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TopK"
   ],
+  "SelectedNode": "\\TopK\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

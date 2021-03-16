@@ -2,8 +2,10 @@
 
 namespace TopK {
     class Program {
+        static Length = 0;
         static void Main(string[] args) {
             int[] array = { 1, 5, 4, 2, 56, 12, 78, 9, 20, 15 };
+            Length = array.Length;
             //HeapSort(array);
 
             // HeapSort(array, array.Length);
@@ -76,14 +78,15 @@ namespace TopK {
                 Swap(tree, i, 0);
                 Heapify(tree, i, 0, isAsce);
             }
+            }
         }
         //TODO:堆插,堆删
-        // static void HeapRemove(int[] tree) {
-        //     int min = tree[0];
-        //     Swap(tree, 0, tree.Length -1);
-        //     for (int i = 0; i < tree.Length - 1; i++) {
-        //         Heapify(tree, tree.Length - 1,0);
-        //     }
-        // }
+         static int RemoveHeapTop(int[] tree) {
+             Length = Length - 1;
+             int removeTarget = tree[0];
+             Swap(tree, 0, tree.Length -1);
+             Heapify(tree, tree.Length - 1,0);
+             return removeTarget;
+         }
     }
 }
